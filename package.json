@@ -1,7 +1,7 @@
 {
-  "name": "gulp-watch",
-  "version": "5.0.1",
-  "description": "Watch, that actually is an endless stream",
+  "name": "@jindasong/gulp-watch",
+  "version": "1.0.0",
+  "description": "This package fork gulp-watch. Fixed gulp-watch5.0.0 listening path not working in windows",
   "main": "index.js",
   "keywords": [
     "gulp",
@@ -18,12 +18,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/floatdrop/gulp-watch.git"
+    "url": "git://github.com/jindasong/gulp-watch.git"
   },
-  "author": "Vsevolod Strukchinsky",
+  "author": "jindasong",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/floatdrop/gulp-watch/issues"
+    "url": "https://github.com/jindasong/gulp-watch/issues"
   },
   "devDependencies": {
     "coveralls": "^2.7.0",
